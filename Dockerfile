@@ -1,4 +1,4 @@
-FROM solr
+FROM drupal
 ENV AUTHOR=cyu
 
 EXPOSE 80
